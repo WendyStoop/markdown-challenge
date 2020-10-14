@@ -20,6 +20,5 @@ Ik ga waar ik voor sta.
 ### HOBBIES
 Run, bike, watching movies, being a mom.
 
-
-
+<< [previous](https://github.com/WillemDT369/markdown-challange)||Wendy Stoop||[next](https://github.com/VidyashreeTarikere/markdown-challenge)>>
 
